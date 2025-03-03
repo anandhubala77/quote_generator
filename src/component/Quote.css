@@ -1,0 +1,11 @@
+.main{
+    background-color:  #0F0E47;
+}
+button{
+    background-color:#8686AC;
+    color: white;
+    padding: 20px;
+    min-width: 200px;
+    min-height: 60px;
+    font-weight: bolder;
+}
