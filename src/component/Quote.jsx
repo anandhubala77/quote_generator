@@ -41,7 +41,8 @@ function Quote() {
                     overflow: "hidden",
                     padding: "20px",
                     wordWrap: "break-word",
-                    whiteSpace: "normal"
+                    whiteSpace: "normal",
+                    margin:'20px'
                 }}
             >
                 {quote}
